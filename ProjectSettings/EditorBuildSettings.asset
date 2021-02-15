@@ -6,8 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyGame/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects:
-    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: c72299d8652c95c4f9480787f8cc6f8e, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 37c566ff283c96e4e912bb08dc80a8c4, type: 2}
+    path: Assets/MyGame/Scenes/MazeScene.unity
+    guid: f3ba4e414a040ba42a7d06e91e03f86e
+  m_configObjects: {}
